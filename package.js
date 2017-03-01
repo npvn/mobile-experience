@@ -14,7 +14,7 @@ Package.onUse(function(api) {
     "fastclick",
 
     // A nicer appearance for the status bar in PhoneGap/Cordova apps
-    "mobile-status-bar"
+    // "mobile-status-bar"
   ], "web.cordova");
 
   api.imply([
